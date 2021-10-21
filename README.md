@@ -21,5 +21,5 @@
 </div>
 <br/>
 
-### Sou programador, apaixonado em computação e musica.
+### Sou programador, apaixonado em computação e tecnologia.
 <hr/>
