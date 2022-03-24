@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Bruno Campos Fonseca 👋
 
 <div>
-     <a href="https://github.com/brunocamposfonseca"><strong>😁 Meu perfil no Github!</strong></a>
+     <a href="https://github.com/brunocamposfonseca" target="_blank"><strong>😁 Meu perfil no Github!</strong></a>
 </div>
 
 <hr/>
@@ -33,5 +33,11 @@
      <li>Cozinhar</li>
      <li>Escutar Músicas</li>
 </ul>
+
+## Meu canal de música:
+
+<div>
+     <a href="https://www.youtube.com/channel/UCN-j0x69u5PztR2T9TFZX5g" target="_blank"><strong>😁 Meu canal no Youtube!</strong></a>
+</div>
 
 <hr/>
