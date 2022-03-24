@@ -25,13 +25,13 @@
      <img align="center" alt="css3" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></div>
 <br/>
 
-## Hobis:
+## Hobbies:
 
 <ul>
      <li>Programar</li>
      <li>Tocar Instrumentos</li>
      <li>Cozinhar</li>
+     <li>Escutar Músicas</li>
 </ul>
 
-### Sou programador, apaixonado por computação e tecnologia.
 <hr/>
