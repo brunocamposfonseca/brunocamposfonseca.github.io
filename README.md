@@ -1,9 +1,8 @@
 
 ### Olá! Eu sou o Bruno Campos Fonseca 👋
-![Meu perfil!](https://gihub.com/brunocamposfonseca)
 
 <div>
-     <a href="https://github.com/brunocamposfonseca">😁 Meu perfil no Github!</a>
+     <a href="https://github.com/brunocamposfonseca"><strong>😁 Meu perfil no Github!</strong></a>
 </div>
 
 <hr/>
