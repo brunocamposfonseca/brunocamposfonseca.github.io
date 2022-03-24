@@ -1,6 +1,11 @@
 
 ### Olá! Eu sou o Bruno Campos Fonseca 👋
 ![Meu perfil!](https://gihub.com/brunocamposfonseca)
+
+<div>
+     <a href="https://github.com/brunocamposfonseca">😁 Meu perfil no Github!</a>
+</div>
+
 <hr/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bruno_c_f_2020)
@@ -20,6 +25,14 @@
      <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
      <img align="center" alt="css3" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></div>
 <br/>
+
+## Hobis:
+
+<ul>
+     <li>Programar</li>
+     <li>Tocar Instrumentos</li>
+     <li>Cozinhar</li>
+</ul>
 
 ### Sou programador, apaixonado por computação e tecnologia.
 <hr/>
