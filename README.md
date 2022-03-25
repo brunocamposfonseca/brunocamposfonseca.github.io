@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Bruno Campos Fonseca 👋
+### Olá! Meu nome é Bruno Campos Fonseca 👋
 
 <div>
      <a href="https://github.com/brunocamposfonseca" target="_blank"><strong>😁 Meu perfil no Github!</strong></a>
