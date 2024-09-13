@@ -45,10 +45,3 @@
      <li>Escutar Músicas</li>
 </ul>
 
-## Meu canal de música:
-
-<div>
-     <a href="https://www.youtube.com/@cordasdidaticasyt/" target="_blank"><strong>😁 Meu canal no Youtube!</strong></a>
-</div>
-
-<hr/>
